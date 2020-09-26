@@ -6,7 +6,7 @@ mecabを利用した分かち書きができるwebアプリ
 ## SETTING
 開発環境
 ```
-OS: Ubuntu
+OS: Ubuntu 18.04.2 LTS
 Python: 3.6
 npm: 6.14.7
 ```
