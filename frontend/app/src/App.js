@@ -19,9 +19,9 @@ export class App extends React.Component {
           <h1>text parser</h1>
           <form onSubmit={this.handleSubmit}>
             <label>
-              input text >>
-              <input type="text" value={this.state.value} onChange={this.handleChange} />
+              <textarea name="text" cols="80" rows="4" value={this.state.value} onChange={this.handleChange} />
             </label>
+            <br/>
             <input type="submit" value="Parse" />
           </form>
         </header>
