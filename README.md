@@ -14,7 +14,7 @@ npm: 6.14.7
 ### backend
 `/backend/`下で以下のコマンドを実行してください。
 
-`pip install -r requirments.txt`
+`pip install -r requirements.txt`
 
 ### frontend
 以下のコマンドを実行してください。
